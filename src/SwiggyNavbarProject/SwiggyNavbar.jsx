@@ -1,7 +1,6 @@
 import "./logo"
 import Logo from "./logo";
-import Navlist from "./navlist";
-
+import Navlist from "./Navlist";
 const SwiggyNavbarProject = () => {
   console.log("SwiggyNavbarProject loaded");
   return (
